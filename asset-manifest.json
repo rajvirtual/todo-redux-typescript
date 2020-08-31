@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-redux-typescript/static/css/main.6b82b46b.chunk.css",
+    "main.js": "/todo-redux-typescript/static/js/main.d840d518.chunk.js",
+    "main.js.map": "/todo-redux-typescript/static/js/main.d840d518.chunk.js.map",
+    "runtime-main.js": "/todo-redux-typescript/static/js/runtime-main.e0099b6e.js",
+    "runtime-main.js.map": "/todo-redux-typescript/static/js/runtime-main.e0099b6e.js.map",
+    "static/js/2.471d543e.chunk.js": "/todo-redux-typescript/static/js/2.471d543e.chunk.js",
+    "static/js/2.471d543e.chunk.js.map": "/todo-redux-typescript/static/js/2.471d543e.chunk.js.map",
+    "index.html": "/todo-redux-typescript/index.html",
+    "precache-manifest.ac65379113ef50eb3e33463c489518e1.js": "/todo-redux-typescript/precache-manifest.ac65379113ef50eb3e33463c489518e1.js",
+    "service-worker.js": "/todo-redux-typescript/service-worker.js",
+    "static/css/main.6b82b46b.chunk.css.map": "/todo-redux-typescript/static/css/main.6b82b46b.chunk.css.map",
+    "static/js/2.471d543e.chunk.js.LICENSE.txt": "/todo-redux-typescript/static/js/2.471d543e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0099b6e.js",
+    "static/js/2.471d543e.chunk.js",
+    "static/css/main.6b82b46b.chunk.css",
+    "static/js/main.d840d518.chunk.js"
+  ]
+}
