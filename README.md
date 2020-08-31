@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Todo app using React, Redux and Typescript.
+
+You can see the demo here : https://rajvirtual.github.io/todo-redux-typescript/
 
 ## Available Scripts
 
